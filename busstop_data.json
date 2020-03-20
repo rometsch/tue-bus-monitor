@@ -1,0 +1,1962 @@
+[
+    {
+        "stop": "Weststadt",
+        "plattform": "",
+        "id": "4304"
+    },
+    {
+        "stop": "Bürgeramt",
+        "plattform": "Westbahnhof / Schloßberg",
+        "id": "1101"
+    },
+    {
+        "stop": "Bismarckturm",
+        "plattform": "Hauptbahnhof",
+        "id": "1304"
+    },
+    {
+        "stop": "Haagtor",
+        "plattform": "Westbahnhof / Schloßberg",
+        "id": "1401"
+    },
+    {
+        "stop": "Haagtor",
+        "plattform": "Hauptbahnhof",
+        "id": "1404"
+    },
+    {
+        "stop": "Krumme Brücke",
+        "plattform": "",
+        "id": "1501"
+    },
+    {
+        "stop": "Rappenberg",
+        "plattform": "",
+        "id": "1604"
+    },
+    {
+        "stop": "Weberstraße",
+        "plattform": "",
+        "id": "1704"
+    },
+    {
+        "stop": "Schleifmühleweg",
+        "plattform": "Westbahnhof",
+        "id": "4001"
+    },
+    {
+        "stop": "Schleifmühleweg",
+        "plattform": "Hauptbahnhof",
+        "id": "4004"
+    },
+    {
+        "stop": "Sindelfinger Straße",
+        "plattform": "Weststadt",
+        "id": "4101"
+    },
+    {
+        "stop": "Sindelfinger Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "4104"
+    },
+    {
+        "stop": "Städtischer Fuhrpark",
+        "plattform": "Weststadt",
+        "id": "4201"
+    },
+    {
+        "stop": "Städtischer Fuhrpark",
+        "plattform": "Hauptbahnhof",
+        "id": "4204"
+    },
+    {
+        "stop": "Neckarhalde",
+        "plattform": "Rappenberg",
+        "id": "4401"
+    },
+    {
+        "stop": "Neckarhalde",
+        "plattform": "Hauptbahnhof",
+        "id": "4404"
+    },
+    {
+        "stop": "Biesingerstraße",
+        "plattform": "Rappenberg",
+        "id": "4501"
+    },
+    {
+        "stop": "Biesingerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "4504"
+    },
+    {
+        "stop": "Ernst-Bloch-Straße",
+        "plattform": "Rappenberg",
+        "id": "4604"
+    },
+    {
+        "stop": "Ernst-Bloch-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "4601"
+    },
+    {
+        "stop": "Hennentalweg",
+        "plattform": "",
+        "id": "4701"
+    },
+    {
+        "stop": "Hirschauer Straße",
+        "plattform": "",
+        "id": "4804"
+    },
+    {
+        "stop": "Lichtenberger Weg",
+        "plattform": "Schloßberg",
+        "id": "4901"
+    },
+    {
+        "stop": "Lichtenberger Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "4904"
+    },
+    {
+        "stop": "Unteres Burgholz",
+        "plattform": "Schloßberg",
+        "id": "5001"
+    },
+    {
+        "stop": "Unteres Burgholz",
+        "plattform": "Hauptbahnhof",
+        "id": "5004"
+    },
+    {
+        "stop": "Burgholzweg",
+        "plattform": "Schloßberg",
+        "id": "5101"
+    },
+    {
+        "stop": "Burgholzweg",
+        "plattform": "Hauptbahnhof",
+        "id": "5104"
+    },
+    {
+        "stop": "Schwärzl. Straße 45",
+        "plattform": "",
+        "id": "5204"
+    },
+    {
+        "stop": "Schwärzl. Straße 79",
+        "plattform": "",
+        "id": "5304"
+    },
+    {
+        "stop": "Schwärzl. Straße 111",
+        "plattform": "",
+        "id": "5404"
+    },
+    {
+        "stop": "Gerstenmühlstraße",
+        "plattform": "Westbahnhof",
+        "id": "5601"
+    },
+    {
+        "stop": "Gerstenmühlstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "5605"
+    },
+    {
+        "stop": "Schwärzlocher Täle",
+        "plattform": "",
+        "id": "5701"
+    },
+    {
+        "stop": "Rappstraße",
+        "plattform": "Hagelloch / Vor dem Kreuzberg",
+        "id": "10001"
+    },
+    {
+        "stop": "Rappstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "10004"
+    },
+    {
+        "stop": "Aischbachstraße",
+        "plattform": "Hagelloch / Vor dem Kreuzberg",
+        "id": "10101"
+    },
+    {
+        "stop": "Aischbachstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "10104"
+    },
+    {
+        "stop": "Hasenbühl",
+        "plattform": "Vor den Kreuzberg",
+        "id": "10201"
+    },
+    {
+        "stop": "Hasenbühl",
+        "plattform": "Hauptbahnhof",
+        "id": "10204"
+    },
+    {
+        "stop": "Hagellocher Weg",
+        "plattform": "Hagelloch / Vor dem Kreuzberg",
+        "id": "10301"
+    },
+    {
+        "stop": "Hagellocher Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "10304"
+    },
+    {
+        "stop": "Weilerhalde",
+        "plattform": "Hagelloch",
+        "id": "10401"
+    },
+    {
+        "stop": "Weilerhalde",
+        "plattform": "Hauptbahnhof",
+        "id": "10404"
+    },
+    {
+        "stop": "Kreuzberg",
+        "plattform": "Hagelloch",
+        "id": "10501"
+    },
+    {
+        "stop": "Kreuzberg",
+        "plattform": "Hauptbahnhof",
+        "id": "10504"
+    },
+    {
+        "stop": "Neuhalde",
+        "plattform": "Hagelloch",
+        "id": "10601"
+    },
+    {
+        "stop": "Neuhalde",
+        "plattform": "Hauptbahnhof",
+        "id": "10604"
+    },
+    {
+        "stop": "Hagelloch Rathaus",
+        "plattform": "Dornäckerweg",
+        "id": "10701"
+    },
+    {
+        "stop": "Hagelloch Rathaus",
+        "plattform": "Hauptbahnhof",
+        "id": "10704"
+    },
+    {
+        "stop": "Hagelloch Dornäckerweg",
+        "plattform": "",
+        "id": "10804"
+    },
+    {
+        "stop": "Friedrich-Dannenmann-Straße",
+        "plattform": "Hagelloch",
+        "id": "11101"
+    },
+    {
+        "stop": "Friedrich-Dannenmann-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "11104"
+    },
+    {
+        "stop": "Gösstraße",
+        "plattform": "Hagelloch",
+        "id": "11201"
+    },
+    {
+        "stop": "Gösstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "11204"
+    },
+    {
+        "stop": "Stephanuskirche",
+        "plattform": "Hagelloch",
+        "id": "11301"
+    },
+    {
+        "stop": "Stephanuskirche",
+        "plattform": "Hauptbahnhof",
+        "id": "11304"
+    },
+    {
+        "stop": "Vor dem Kreuzberg",
+        "plattform": "",
+        "id": "11404"
+    },
+    {
+        "stop": "Herrenberger Straße",
+        "plattform": "",
+        "id": "11504"
+    },
+    {
+        "stop": "Rheinlandstraße",
+        "plattform": "Kliniken",
+        "id": "12201"
+    },
+    {
+        "stop": "Rheinlandstraße",
+        "plattform": "Westbahnhof",
+        "id": "12204"
+    },
+    {
+        "stop": "Auf der Morgenstelle",
+        "plattform": "WHO / Philosophenweg",
+        "id": "12402"
+    },
+    {
+        "stop": "Auf der Morgenstelle",
+        "plattform": "Hagelloch",
+        "id": "12401"
+    },
+    {
+        "stop": "Auf der Morgenstelle",
+        "plattform": "Hauptbahnhof (Linie 18)",
+        "id": "12404"
+    },
+    {
+        "stop": "Auf der Morgenstelle",
+        "plattform": "Hauptbahnhof",
+        "id": "12405"
+    },
+    {
+        "stop": "Breiter Weg",
+        "plattform": "Kliniken",
+        "id": "19001"
+    },
+    {
+        "stop": "Breiter Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "19004"
+    },
+    {
+        "stop": "Calwerstraße",
+        "plattform": "Kliniken",
+        "id": "19101"
+    },
+    {
+        "stop": "Calwerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "19104"
+    },
+    {
+        "stop": "Parkhaus König",
+        "plattform": "Kliniken",
+        "id": "19202"
+    },
+    {
+        "stop": "Parkhaus König",
+        "plattform": "Hauptbahnhof",
+        "id": "19204"
+    },
+    {
+        "stop": "Parkhaus König",
+        "plattform": "Weststadt",
+        "id": "19203"
+    },
+    {
+        "stop": "Uni-Kliniken Tal",
+        "plattform": "Kliniken - Wanne - WHO",
+        "id": "20001"
+    },
+    {
+        "stop": "Uni-Kliniken Tal",
+        "plattform": "Hauptbahnhof",
+        "id": "20004"
+    },
+    {
+        "stop": "Quenstedtstraße",
+        "plattform": "Kliniken - Wanne - WHO",
+        "id": "20101"
+    },
+    {
+        "stop": "Quenstedtstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "20104"
+    },
+    {
+        "stop": "Frondsbergstraße",
+        "plattform": "Kliniken - Wanne - WHO",
+        "id": "20201"
+    },
+    {
+        "stop": "Frondsbergstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "20204"
+    },
+    {
+        "stop": "Uni-Kliniken Berg",
+        "plattform": "Wanne - WHO / Hagelloch",
+        "id": "20301"
+    },
+    {
+        "stop": "Uni-Kliniken Berg",
+        "plattform": "Hauptbahnhof",
+        "id": "20304"
+    },
+    {
+        "stop": "BG Unfallklinik",
+        "plattform": "Hauptbahnhof",
+        "id": "20405"
+    },
+    {
+        "stop": "BG Unfallklinik",
+        "plattform": "WHO / Philosophenweg / Hagelloch",
+        "id": "20403"
+    },
+    {
+        "stop": "BG Unfallklinik",
+        "plattform": "Westbahnhof",
+        "id": "20406"
+    },
+    {
+        "stop": "Botanischer Garten",
+        "plattform": "Kliniken - Hauptbahnhof",
+        "id": "20504"
+    },
+    {
+        "stop": "Botanischer Garten",
+        "plattform": "WHO / Philosophenweg",
+        "id": "20501"
+    },
+    {
+        "stop": "Beethovenweg",
+        "plattform": "Hauptbahnhof",
+        "id": "20604"
+    },
+    {
+        "stop": "Beethovenweg",
+        "plattform": "WHO / Philosophenweg",
+        "id": "20601"
+    },
+    {
+        "stop": "Wanne Kunsthalle",
+        "plattform": "Kliniken - Hauptbahnhof",
+        "id": "20704"
+    },
+    {
+        "stop": "Wanne Kunsthalle",
+        "plattform": "WHO / Philosophenweg",
+        "id": "20701"
+    },
+    {
+        "stop": "Haydnweg",
+        "plattform": "Waldhäuser Ost",
+        "id": "20801"
+    },
+    {
+        "stop": "Haydnweg",
+        "plattform": "Kliniken - Hauptbahnhof",
+        "id": "20804"
+    },
+    {
+        "stop": "Horemer",
+        "plattform": "Waldhäuser Ost",
+        "id": "20901"
+    },
+    {
+        "stop": "Horemer",
+        "plattform": "Kliniken - Hauptbahnhof",
+        "id": "20904"
+    },
+    {
+        "stop": "Pappelweg",
+        "plattform": "Ulmenweg - Kliniken",
+        "id": "21101"
+    },
+    {
+        "stop": "Pappelweg",
+        "plattform": "Ahornweg - Hauptbahnhof",
+        "id": "21104"
+    },
+    {
+        "stop": "Erlenweg",
+        "plattform": "Ulmenweg - Kliniken",
+        "id": "21201"
+    },
+    {
+        "stop": "Erlenweg",
+        "plattform": "Ahornweg - Hauptbahnhof",
+        "id": "21204"
+    },
+    {
+        "stop": "Ahornweg",
+        "plattform": "Ulmenweg - Kliniken",
+        "id": "21301"
+    },
+    {
+        "stop": "Ahornweg",
+        "plattform": "Hauptbahnhof",
+        "id": "21304"
+    },
+    {
+        "stop": "Weißdornweg",
+        "plattform": "Ulmenweg",
+        "id": "21404"
+    },
+    {
+        "stop": "Weißdornweg",
+        "plattform": "Hauptbahnhof",
+        "id": "21401"
+    },
+    {
+        "stop": "Goethestraße",
+        "plattform": "WHO - Wanne",
+        "id": "22001"
+    },
+    {
+        "stop": "Im Rotbad",
+        "plattform": "Hauptbahnhof",
+        "id": "22104"
+    },
+    {
+        "stop": "Im Rotbad",
+        "plattform": "WHO / Wanne",
+        "id": "22101"
+    },
+    {
+        "stop": "Engelfriedshalde",
+        "plattform": "WHO / Wanne",
+        "id": "22201"
+    },
+    {
+        "stop": "Engelfriedshalde",
+        "plattform": "Hauptbahnhof",
+        "id": "22204"
+    },
+    {
+        "stop": "Maria-von-Linden-Straße",
+        "plattform": "Waldhäuser Ost",
+        "id": "22901"
+    },
+    {
+        "stop": "Maria-von-Linden-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "22904"
+    },
+    {
+        "stop": "Ochsenweide",
+        "plattform": "Hauptbahnhof",
+        "id": "23004"
+    },
+    {
+        "stop": "Ochsenweide",
+        "plattform": "WHO / Wanne",
+        "id": "23001"
+    },
+    {
+        "stop": "Auf dem Kreuz",
+        "plattform": "Waldhäuser Ost",
+        "id": "23201"
+    },
+    {
+        "stop": "Auf dem Kreuz",
+        "plattform": "Hauptbahnhof",
+        "id": "23204"
+    },
+    {
+        "stop": "Max-Planck-Institute",
+        "plattform": "Waldhäuser Ost",
+        "id": "23301"
+    },
+    {
+        "stop": "Max-Planck-Institute",
+        "plattform": "Hauptbahnhof",
+        "id": "23304"
+    },
+    {
+        "stop": "Waldhäuser Straße",
+        "plattform": "Waldhäuser Ost",
+        "id": "23401"
+    },
+    {
+        "stop": "Waldhäuser Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "23404"
+    },
+    {
+        "stop": "Brunsstraße",
+        "plattform": "WHO / Wanne",
+        "id": "23501"
+    },
+    {
+        "stop": "Brunsstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "23504"
+    },
+    {
+        "stop": "Hans-Geiger-Weg",
+        "plattform": "Wanne - Kliniken",
+        "id": "23601"
+    },
+    {
+        "stop": "Hans-Geiger-Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "23604"
+    },
+    {
+        "stop": "Ferd.-Chr.-Baur-Str.",
+        "plattform": "Wanne - Kliniken",
+        "id": "23701"
+    },
+    {
+        "stop": "Ferd.-Chr.-Baur-Str.",
+        "plattform": "Hauptbahnhof",
+        "id": "23704"
+    },
+    {
+        "stop": "Kunsthalle",
+        "plattform": "Wanne - Kliniken",
+        "id": "23801"
+    },
+    {
+        "stop": "Kunsthalle",
+        "plattform": "Hauptbahnhof",
+        "id": "23804"
+    },
+    {
+        "stop": "Sternwarte",
+        "plattform": "Waldhäuser Ost",
+        "id": "23105"
+    },
+    {
+        "stop": "Sternwarte",
+        "plattform": "Hauptbahnhof",
+        "id": "23104"
+    },
+    {
+        "stop": "Sternwarte",
+        "plattform": "Nachtbushaltestelle",
+        "id": "23101"
+    },
+    {
+        "stop": "Corrensstraße",
+        "plattform": "Waldhäuser Ost",
+        "id": "24001"
+    },
+    {
+        "stop": "Corrensstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "24004"
+    },
+    {
+        "stop": "Niethammerstraße",
+        "plattform": "Waldhäuser Ost",
+        "id": "24101"
+    },
+    {
+        "stop": "Niethammerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "24104"
+    },
+    {
+        "stop": "Winkelwiese",
+        "plattform": "Waldhäuser Ost",
+        "id": "24201"
+    },
+    {
+        "stop": "Winkelwiese",
+        "plattform": "Hauptbahnhof",
+        "id": "24204"
+    },
+    {
+        "stop": "Schönblick",
+        "plattform": "Waldhäuser Ost",
+        "id": "24301"
+    },
+    {
+        "stop": "Schönblick",
+        "plattform": "Hauptbahnhof",
+        "id": "24304"
+    },
+    {
+        "stop": "Untere Heulandsteige",
+        "plattform": "Waldhäuser Ost",
+        "id": "24401"
+    },
+    {
+        "stop": "Untere Heulandsteige",
+        "plattform": "Hauptbahnhof",
+        "id": "24404"
+    },
+    {
+        "stop": "Im Winkelrain",
+        "plattform": "Waldhäuser Ost",
+        "id": "24501"
+    },
+    {
+        "stop": "Im Winkelrain",
+        "plattform": "Hauptbahnhof",
+        "id": "24504"
+    },
+    {
+        "stop": "Haußerstraße",
+        "plattform": "Waldhäuser Ost",
+        "id": "24701"
+    },
+    {
+        "stop": "Haußerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "24704"
+    },
+    {
+        "stop": "Wolfgang-Stock-Str.",
+        "plattform": "Waldhäuser Ost",
+        "id": "24801"
+    },
+    {
+        "stop": "Wolfgang-Stock-Str.",
+        "plattform": "Hauptbahnhof",
+        "id": "24804"
+    },
+    {
+        "stop": "Linsenbergstraße",
+        "plattform": "Waldhäuser Ost",
+        "id": "25001"
+    },
+    {
+        "stop": "Linsenbergstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "25004"
+    },
+    {
+        "stop": "Sand Nordring",
+        "plattform": "Waldhäuser Ost",
+        "id": "25101"
+    },
+    {
+        "stop": "Sand Nordring",
+        "plattform": "Hauptbahnhof",
+        "id": "25104"
+    },
+    {
+        "stop": "Sand Drosselweg",
+        "plattform": "",
+        "id": "25207"
+    },
+    {
+        "stop": "Falkenweg",
+        "plattform": "Waldhäuser Ost",
+        "id": "25301"
+    },
+    {
+        "stop": "Falkenweg",
+        "plattform": "Hauptbahnhof",
+        "id": "25304"
+    },
+    {
+        "stop": "Ulmenweg",
+        "plattform": "Ahornweg - Hauptbahnhof",
+        "id": "26004"
+    },
+    {
+        "stop": "Ulmenweg",
+        "plattform": "Wanne - Kliniken",
+        "id": "26001"
+    },
+    {
+        "stop": "Sophienpflege",
+        "plattform": "",
+        "id": "29904"
+    },
+    {
+        "stop": "Landhausstraße",
+        "plattform": "Lustnau - Pfrondorf",
+        "id": "30001"
+    },
+    {
+        "stop": "Landhausstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30004"
+    },
+    {
+        "stop": "Dorfstraße",
+        "plattform": "Universität / Lustnau Nord",
+        "id": "30102"
+    },
+    {
+        "stop": "Dorfstraße",
+        "plattform": "Alte Weberei / Gartenstraße",
+        "id": "30104"
+    },
+    {
+        "stop": "Dorfstraße",
+        "plattform": "stadtauswärts",
+        "id": "30101"
+    },
+    {
+        "stop": "Dorfstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30106"
+    },
+    {
+        "stop": "Neuhaldenstraße",
+        "plattform": "Pfrondorf",
+        "id": "30201"
+    },
+    {
+        "stop": "Neuhaldenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30204"
+    },
+    {
+        "stop": "Kreuzstraße",
+        "plattform": "Gartenstraße - Hbf",
+        "id": "30305"
+    },
+    {
+        "stop": "Kreuzstraße",
+        "plattform": "Wilhelmstraße - Hbf / Lustnau Nord",
+        "id": "30307"
+    },
+    {
+        "stop": "Carlo-Steeb-Str.",
+        "plattform": "",
+        "id": "30404"
+    },
+    {
+        "stop": "Stuttgarter Straße",
+        "plattform": "Pfrondorf",
+        "id": "30501"
+    },
+    {
+        "stop": "Stuttgarter Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "30504"
+    },
+    {
+        "stop": "Jürgensenstraße",
+        "plattform": "Pfrondorf",
+        "id": "30601"
+    },
+    {
+        "stop": "Jürgensenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30604"
+    },
+    {
+        "stop": "Eichhaldenstraße",
+        "plattform": "Pfrondorf",
+        "id": "30701"
+    },
+    {
+        "stop": "Eichhaldenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30704"
+    },
+    {
+        "stop": "Pfrondorf Seestraße",
+        "plattform": "Lusstraße",
+        "id": "30801"
+    },
+    {
+        "stop": "Pfrondorf Seestraße",
+        "plattform": "Hauptbahnhof",
+        "id": "30804"
+    },
+    {
+        "stop": "Bei der Kirche",
+        "plattform": "",
+        "id": "33801"
+    },
+    {
+        "stop": "Pfrondorf Rathaus",
+        "plattform": "Hauptbahnhof",
+        "id": "30904"
+    },
+    {
+        "stop": "Pfrondorf Lusstraße",
+        "plattform": "",
+        "id": "31004"
+    },
+    {
+        "stop": "Dieselstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "31105"
+    },
+    {
+        "stop": "Dieselstraße",
+        "plattform": "Herrlesberg (- Pfrondorf) / Hauptbahnhof / Lustnau Nord",
+        "id": "31107"
+    },
+    {
+        "stop": "Benzstraße",
+        "plattform": "Herrlesberg (- Pfrondorf) / Alte Weberei",
+        "id": "31301"
+    },
+    {
+        "stop": "Benzstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "31304"
+    },
+    {
+        "stop": "Herrlesberg",
+        "plattform": "Stauden (- Pfrondorf)",
+        "id": "31501"
+    },
+    {
+        "stop": "Herrlesberg",
+        "plattform": "Hauptbahnhof",
+        "id": "31504"
+    },
+    {
+        "stop": "Stauden",
+        "plattform": "Pfrondorf",
+        "id": "31601"
+    },
+    {
+        "stop": "Stauden",
+        "plattform": "Hauptbahnhof",
+        "id": "31604"
+    },
+    {
+        "stop": "Käthe-Kollwitz-Str.",
+        "plattform": "Stauden (- Pfrondorf)",
+        "id": "31701"
+    },
+    {
+        "stop": "Käthe-Kollwitz-Str.",
+        "plattform": "Hauptbahnhof",
+        "id": "31704"
+    },
+    {
+        "stop": "B.-v.Stuttner-Straße",
+        "plattform": "Stauden (- Pfrondorf)",
+        "id": "31801"
+    },
+    {
+        "stop": "B.-v.Stuttner-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "31804"
+    },
+    {
+        "stop": "Steige",
+        "plattform": "Herrlesberg (- Pfrondorf)",
+        "id": "31901"
+    },
+    {
+        "stop": "Steige",
+        "plattform": "Hauptbahnhof",
+        "id": "31904"
+    },
+    {
+        "stop": "Wolfsbaumweg",
+        "plattform": "Herrlesberg (- Pfrondorf)",
+        "id": "32001"
+    },
+    {
+        "stop": "Wolfsbaumweg",
+        "plattform": "Hauptbahnhof",
+        "id": "32004"
+    },
+    {
+        "stop": "Dorfackerschule",
+        "plattform": "",
+        "id": "32201"
+    },
+    {
+        "stop": "Pfrondorf Lindenstraße",
+        "plattform": "Nachtbushaltestelle",
+        "id": "32301"
+    },
+    {
+        "stop": "Pfrondorf Lindenstraße",
+        "plattform": "",
+        "id": "32304"
+    },
+    {
+        "stop": "Pfrondorf Hermann-Reuchlin-Straße",
+        "plattform": "",
+        "id": "32404"
+    },
+    {
+        "stop": "Gottfr.-Pressel-Weg",
+        "plattform": "Herrlesberg (- Pfrondorf)",
+        "id": "32501"
+    },
+    {
+        "stop": "Gottfr.-Pressel-Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "32504"
+    },
+    {
+        "stop": "Maienfeldstraße",
+        "plattform": "",
+        "id": "32604"
+    },
+    {
+        "stop": "Pfrondorf Schönbuchhalle",
+        "plattform": "",
+        "id": "32704"
+    },
+    {
+        "stop": "Viktor-Renner-Straße",
+        "plattform": "",
+        "id": "32804"
+    },
+    {
+        "stop": "Fried.-Zundel-Str.",
+        "plattform": "",
+        "id": "32904"
+    },
+    {
+        "stop": "Dorfackerstraße",
+        "plattform": "",
+        "id": "33001"
+    },
+    {
+        "stop": "Deichelweg",
+        "plattform": "Alte Weberei / Gartenstraße",
+        "id": "33104"
+    },
+    {
+        "stop": "Deichelweg",
+        "plattform": "Universität / Lustnau Nord",
+        "id": "33101"
+    },
+    {
+        "stop": "Stäudach",
+        "plattform": "",
+        "id": "33201"
+    },
+    {
+        "stop": "Pfrondorf Zollernstraße",
+        "plattform": "Lusstraße",
+        "id": "33301"
+    },
+    {
+        "stop": "Pfrondorf Zollernstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "33304"
+    },
+    {
+        "stop": "Gartenstraße",
+        "plattform": "Lustnau Nord",
+        "id": "33401"
+    },
+    {
+        "stop": "Gartenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "33404"
+    },
+    {
+        "stop": "Kielmeyerstraße",
+        "plattform": "Lustnau Nord",
+        "id": "33601"
+    },
+    {
+        "stop": "Kielmeyerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "33604"
+    },
+    {
+        "stop": "Pfrondorf Steinbruchstraße",
+        "plattform": "Lusstraße",
+        "id": "33701"
+    },
+    {
+        "stop": "Pfrondorf Steinbruchstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "33704"
+    },
+    {
+        "stop": "Mühlstraße",
+        "plattform": "",
+        "id": "49904"
+    },
+    {
+        "stop": "Neckarbrücke",
+        "plattform": "Lustnau / Weststadt",
+        "id": "50102"
+    },
+    {
+        "stop": "Neckarbrücke",
+        "plattform": "Hauptbahnhof",
+        "id": "50104"
+    },
+    {
+        "stop": "Neckarbrücke",
+        "plattform": "WHO / Kliniken",
+        "id": "50103"
+    },
+    {
+        "stop": "Nonnenhaus",
+        "plattform": "",
+        "id": "50205"
+    },
+    {
+        "stop": "Uni / Neue Aula",
+        "plattform": "Lustnau / Pfrondorf",
+        "id": "50302"
+    },
+    {
+        "stop": "Uni / Neue Aula",
+        "plattform": "WHO / Wanne",
+        "id": "50303"
+    },
+    {
+        "stop": "Lothar-Meyer-Bau",
+        "plattform": "",
+        "id": "50401"
+    },
+    {
+        "stop": "Pauline-Krone-Heim",
+        "plattform": "Lustnau - Pfrondorf",
+        "id": "50501"
+    },
+    {
+        "stop": "Pauline-Krone-Heim",
+        "plattform": "Hauptbahnhof",
+        "id": "50504"
+    },
+    {
+        "stop": "Mohlstraße",
+        "plattform": "Waldhäuser Ost",
+        "id": "50601"
+    },
+    {
+        "stop": "Mohlstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "50604"
+    },
+    {
+        "stop": "Hölderlinstraße",
+        "plattform": "",
+        "id": "50708"
+    },
+    {
+        "stop": "Stadtgraben",
+        "plattform": "",
+        "id": "50804"
+    },
+    {
+        "stop": "Gmelinstraße",
+        "plattform": "Kliniken",
+        "id": "50901"
+    },
+    {
+        "stop": "Rümelinstraße",
+        "plattform": "",
+        "id": "51001"
+    },
+    {
+        "stop": "Blaue Brücke",
+        "plattform": "Südstadt",
+        "id": "51701"
+    },
+    {
+        "stop": "Blaue Brücke",
+        "plattform": "Hauptbahnhof",
+        "id": "51704"
+    },
+    {
+        "stop": "Wilhelmstraße",
+        "plattform": "Lustnau / Weststadt",
+        "id": "52002"
+    },
+    {
+        "stop": "Wilhelmstraße",
+        "plattform": "WHO / Kliniken",
+        "id": "52003"
+    },
+    {
+        "stop": "Österbergstraße",
+        "plattform": "Österberg",
+        "id": "60001"
+    },
+    {
+        "stop": "Österbergstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "60004"
+    },
+    {
+        "stop": "Wielandshöhe",
+        "plattform": "Österberg",
+        "id": "60101"
+    },
+    {
+        "stop": "Wielandshöhe",
+        "plattform": "Hauptbahnhof",
+        "id": "60104"
+    },
+    {
+        "stop": "Kleiststraße",
+        "plattform": "",
+        "id": "60201"
+    },
+    {
+        "stop": "Stauffenbergstraße",
+        "plattform": "",
+        "id": "60301"
+    },
+    {
+        "stop": "Fritz-Bauer-Straße",
+        "plattform": "",
+        "id": "60404"
+    },
+    {
+        "stop": "Schwabstraße",
+        "plattform": "",
+        "id": "60504"
+    },
+    {
+        "stop": "Rechter Österberg",
+        "plattform": "",
+        "id": "60604"
+    },
+    {
+        "stop": "Österberg",
+        "plattform": "",
+        "id": "60704"
+    },
+    {
+        "stop": "Doblerstraße",
+        "plattform": "Österberg",
+        "id": "60801"
+    },
+    {
+        "stop": "Doblerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "60804"
+    },
+    {
+        "stop": "Jugendherberge",
+        "plattform": "Lustnau Nord",
+        "id": "61001"
+    },
+    {
+        "stop": "Jugendherberge",
+        "plattform": "Hauptbahnhof",
+        "id": "61004"
+    },
+    {
+        "stop": "Hundskapfklinge",
+        "plattform": "Lustnau Nord",
+        "id": "61101"
+    },
+    {
+        "stop": "Hundskapfklinge",
+        "plattform": "Hauptbahnhof",
+        "id": "61104"
+    },
+    {
+        "stop": "Aeulestraße",
+        "plattform": "Lustnau Nord",
+        "id": "61201"
+    },
+    {
+        "stop": "Aeulestraße",
+        "plattform": "Hauptbahnhof",
+        "id": "61204"
+    },
+    {
+        "stop": "Nürtinger Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "61304"
+    },
+    {
+        "stop": "Nürtinger Straße",
+        "plattform": "Lustnau Nord",
+        "id": "61301"
+    },
+    {
+        "stop": "Alter Güterbahnhof",
+        "plattform": "Franz. Viertel",
+        "id": "61401"
+    },
+    {
+        "stop": "Alter Güterbahnhof",
+        "plattform": "Hauptbahnhof",
+        "id": "61404"
+    },
+    {
+        "stop": "Bismarckstraße",
+        "plattform": "Unterer Wert",
+        "id": "61901"
+    },
+    {
+        "stop": "Bismarckstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "61904"
+    },
+    {
+        "stop": "Biererstraße",
+        "plattform": "Unterer Wert",
+        "id": "62001"
+    },
+    {
+        "stop": "Biererstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "62004"
+    },
+    {
+        "stop": "Brückenstraße",
+        "plattform": "Unterer Wert",
+        "id": "62101"
+    },
+    {
+        "stop": "Brückenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "62104"
+    },
+    {
+        "stop": "Neckarsulmer Straße",
+        "plattform": "Unterer Wert",
+        "id": "62201"
+    },
+    {
+        "stop": "Neckarsulmer Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "62204"
+    },
+    {
+        "stop": "Betriebshof TüBus",
+        "plattform": "",
+        "id": "62301"
+    },
+    {
+        "stop": "August-Bebel-Straße",
+        "plattform": "",
+        "id": "62401"
+    },
+    {
+        "stop": "Schaffhausenstraße",
+        "plattform": "",
+        "id": "62501"
+    },
+    {
+        "stop": "Düsseldorfer Straße",
+        "plattform": "",
+        "id": "62601"
+    },
+    {
+        "stop": "Egeriaplatz",
+        "plattform": "Hauptbahnhof",
+        "id": "62704"
+    },
+    {
+        "stop": "Hegelstraße",
+        "plattform": "Mühlbachäcker / Derendingen",
+        "id": "70001"
+    },
+    {
+        "stop": "Hegelstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "70004"
+    },
+    {
+        "stop": "Hauptbahnhof Süd",
+        "plattform": "Derendingen (- Gartenstadt)",
+        "id": "70101"
+    },
+    {
+        "stop": "Hauptbahnhof Süd",
+        "plattform": "Hauptbahnhof",
+        "id": "70104"
+    },
+    {
+        "stop": "Moltkestraße",
+        "plattform": "Derendingen (- Gartenstadt)",
+        "id": "70201"
+    },
+    {
+        "stop": "Moltkestraße",
+        "plattform": "Hauptbahnhof",
+        "id": "70204"
+    },
+    {
+        "stop": "Windfeldstraße",
+        "plattform": "Derendingen (- Gartenstadt)",
+        "id": "70301"
+    },
+    {
+        "stop": "Windfeldstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "70304"
+    },
+    {
+        "stop": "Heinlenstraße",
+        "plattform": "Derendingen / Gartenstadt",
+        "id": "70401"
+    },
+    {
+        "stop": "Heinlenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "70404"
+    },
+    {
+        "stop": "Feuerhägle",
+        "plattform": "Derendingen - Gartenstadt",
+        "id": "70501"
+    },
+    {
+        "stop": "Feuerhägle",
+        "plattform": "Hauptbahnhof",
+        "id": "70504"
+    },
+    {
+        "stop": "Paul-Dietz-Straße",
+        "plattform": "Derendingen / Gartenstadt",
+        "id": "70601"
+    },
+    {
+        "stop": "Paul-Dietz-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "70604"
+    },
+    {
+        "stop": "Albrechtstraße",
+        "plattform": "Unter dem Holz",
+        "id": "70701"
+    },
+    {
+        "stop": "Albrechtstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "70704"
+    },
+    {
+        "stop": "Käppele",
+        "plattform": "Unter dem Holz / Gartenstadt",
+        "id": "70801"
+    },
+    {
+        "stop": "Käppele",
+        "plattform": "Hauptbahnhof",
+        "id": "70804"
+    },
+    {
+        "stop": "Marienstraße",
+        "plattform": "",
+        "id": "70901"
+    },
+    {
+        "stop": "Danziger Straße",
+        "plattform": "Hauptbahnhof / Gartenstadt",
+        "id": "71101"
+    },
+    {
+        "stop": "Danziger Straße",
+        "plattform": "Nachtbushaltestelle",
+        "id": "71104"
+    },
+    {
+        "stop": "Neuffenstraße",
+        "plattform": "Unter dem Holz",
+        "id": "71601"
+    },
+    {
+        "stop": "Neuffenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "71604"
+    },
+    {
+        "stop": "Mühlenviertel",
+        "plattform": "Hauptbahnhof",
+        "id": "71701"
+    },
+    {
+        "stop": "Mühlenviertel",
+        "plattform": "Unter dem Holz",
+        "id": "71704"
+    },
+    {
+        "stop": "Fuchsstraße",
+        "plattform": "Gartenstadt",
+        "id": "72201"
+    },
+    {
+        "stop": "Fuchsstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "72204"
+    },
+    {
+        "stop": "Nelkenweg",
+        "plattform": "",
+        "id": "72304"
+    },
+    {
+        "stop": "Ernst-Simon-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "72604"
+    },
+    {
+        "stop": "Unter dem Holz",
+        "plattform": "Hauptbahnhof",
+        "id": "72704"
+    },
+    {
+        "stop": "Memmingerstraße",
+        "plattform": "(Mühlenviertel -) Gartenstadt",
+        "id": "72901"
+    },
+    {
+        "stop": "Memmingerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "72904"
+    },
+    {
+        "stop": "Waldhörnlestraße",
+        "plattform": "Hauptbahnhof",
+        "id": "73001"
+    },
+    {
+        "stop": "Landestheater",
+        "plattform": "Franz. Viertel / Sudetenstraße (- Bergfriedhof)",
+        "id": "80001"
+    },
+    {
+        "stop": "Landestheater",
+        "plattform": "Hauptbahnhof",
+        "id": "80004"
+    },
+    {
+        "stop": "Aixer Straße",
+        "plattform": "Wennfelder Garten / Franz. Viertel",
+        "id": "80801"
+    },
+    {
+        "stop": "Aixer Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "80804"
+    },
+    {
+        "stop": "Sternplatz",
+        "plattform": "Wennfelder Garten / Sudetenstraße (- Bergfriedhof)",
+        "id": "81001"
+    },
+    {
+        "stop": "Sternplatz",
+        "plattform": "Hauptbahnhof",
+        "id": "81004"
+    },
+    {
+        "stop": "Kiesäckerstraße",
+        "plattform": "Wennfelder Garten / Sudetenstraße (- Bergfriedhof)",
+        "id": "81101"
+    },
+    {
+        "stop": "Kiesäckerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "81104"
+    },
+    {
+        "stop": "Königsberger Straße",
+        "plattform": "Wennfelder Garten / Franz. Viertel",
+        "id": "81201"
+    },
+    {
+        "stop": "Königsberger Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "81204"
+    },
+    {
+        "stop": "Stadtwerke",
+        "plattform": "Wennfelder Garten / Franz. Viertel",
+        "id": "81301"
+    },
+    {
+        "stop": "Stadtwerke",
+        "plattform": "Hauptbahnhof",
+        "id": "81304"
+    },
+    {
+        "stop": "Görlitzer Weg",
+        "plattform": "Wennfelder Garten",
+        "id": "81401"
+    },
+    {
+        "stop": "Tilsiter Weg",
+        "plattform": "Wennfelder Garten",
+        "id": "81401"
+    },
+    {
+        "stop": "Görlitzer Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "81404"
+    },
+    {
+        "stop": "Tilsiter Weg",
+        "plattform": "Hauptbahnhof",
+        "id": "81404"
+    },
+    {
+        "stop": "Wennfelder Garten",
+        "plattform": "Hauptbahnhof",
+        "id": "81504"
+    },
+    {
+        "stop": "Schweickhardtstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "81604"
+    },
+    {
+        "stop": "Schweickhardtstraße",
+        "plattform": "Franz. Viertel",
+        "id": "81601"
+    },
+    {
+        "stop": "Wankheimer Täle",
+        "plattform": "Franz. Viertel",
+        "id": "81801"
+    },
+    {
+        "stop": "Wankheimer Täle",
+        "plattform": "Hauptbahnhof",
+        "id": "81804"
+    },
+    {
+        "stop": "Franz. Viertel",
+        "plattform": "",
+        "id": "81904"
+    },
+    {
+        "stop": "Sudetenstraße",
+        "plattform": "Bergfriedhof",
+        "id": "82001"
+    },
+    {
+        "stop": "Sudetenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "82004"
+    },
+    {
+        "stop": "Bergfriedhof West",
+        "plattform": "Bergfriedhof Ost",
+        "id": "82101"
+    },
+    {
+        "stop": "Bergfriedhof West",
+        "plattform": "Hauptbahnhof",
+        "id": "82104"
+    },
+    {
+        "stop": "Bergfriedhof Süd",
+        "plattform": "Bergfriedhof Ost",
+        "id": "82201"
+    },
+    {
+        "stop": "Bergfriedhof Süd",
+        "plattform": "Hauptbahnhof",
+        "id": "82204"
+    },
+    {
+        "stop": "Bergfriedhof Ost",
+        "plattform": "Hauptbahnhof",
+        "id": "82304"
+    },
+    {
+        "stop": "Hechinger Straße",
+        "plattform": "Derendingen / Franz. Viertel",
+        "id": "90101"
+    },
+    {
+        "stop": "Hechinger Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "90104"
+    },
+    {
+        "stop": "Waldhörnle",
+        "plattform": "Hauptbahnhof",
+        "id": "90305"
+    },
+    {
+        "stop": "Freibad",
+        "plattform": "Hirschau / Bühl - Rottenburg",
+        "id": "90401"
+    },
+    {
+        "stop": "Freibad",
+        "plattform": "Hauptbahnhof",
+        "id": "90404"
+    },
+    {
+        "stop": "Weilheim Alte Landstraße",
+        "plattform": "Bühl - Rottenburg",
+        "id": "90501"
+    },
+    {
+        "stop": "Weilheim Alte Landstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "90504"
+    },
+    {
+        "stop": "Weilheim Kneiple",
+        "plattform": "Bühl - Rottenburg",
+        "id": "90601"
+    },
+    {
+        "stop": "Weilheim Kneiple",
+        "plattform": "Hauptbahnhof",
+        "id": "90604"
+    },
+    {
+        "stop": "Weilheim Rathaus",
+        "plattform": "Bühl - Rottenburg",
+        "id": "90701"
+    },
+    {
+        "stop": "Weilheim Rathaus",
+        "plattform": "Hauptbahnhof",
+        "id": "90704"
+    },
+    {
+        "stop": "Sindelfinger Straße(B 28)",
+        "plattform": "Hauptbahnhof",
+        "id": "90904"
+    },
+    {
+        "stop": "Brühlstraße",
+        "plattform": "Unter dem Holz",
+        "id": "91101"
+    },
+    {
+        "stop": "Brühlstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "91104"
+    },
+    {
+        "stop": "Gottlob-Braeuning-Straße",
+        "plattform": "Mühlbachäcker",
+        "id": "91401"
+    },
+    {
+        "stop": "Gottlob-Braeuning-Straße",
+        "plattform": "Hauptbahnhof",
+        "id": "91404"
+    },
+    {
+        "stop": "Mühlbachäcker",
+        "plattform": "Hauptbahnhof",
+        "id": "91604"
+    },
+    {
+        "stop": "Regierungspräsidium",
+        "plattform": "Mühlbachäcker",
+        "id": "91801"
+    },
+    {
+        "stop": "Regierungspräsidium",
+        "plattform": "Hauptbahnhof",
+        "id": "91804"
+    },
+    {
+        "stop": "Loretto",
+        "plattform": "Derendingen / Franz. Viertel",
+        "id": "92001"
+    },
+    {
+        "stop": "Loretto",
+        "plattform": "Hauptbahnhof",
+        "id": "92004"
+    },
+    {
+        "stop": "Hechinger Eck",
+        "plattform": "(Mühlenviertel -) Gartenstadt",
+        "id": "92102"
+    },
+    {
+        "stop": "Hechinger Eck",
+        "plattform": "Franz. Viertel",
+        "id": "92103"
+    },
+    {
+        "stop": "Hechinger Eck",
+        "plattform": "Hauptbahnhof",
+        "id": "92104"
+    },
+    {
+        "stop": "Alexanderstraße",
+        "plattform": "",
+        "id": "92201"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig B",
+        "id": "100002"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig C",
+        "id": "100003"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig E",
+        "id": "100005"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig F",
+        "id": "100006"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig G",
+        "id": "100007"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig H",
+        "id": "100008"
+    },
+    {
+        "stop": "Hauptbahnhof",
+        "plattform": "Steig I",
+        "id": "100009"
+    },
+    {
+        "stop": "Westbahnhof",
+        "plattform": "Hauptbahnhof",
+        "id": "204105"
+    },
+    {
+        "stop": "Westbahnhof",
+        "plattform": "Nachtbushaltestelle",
+        "id": "204109"
+    },
+    {
+        "stop": "Westbahnhof",
+        "plattform": "Schwärzlocher Straße",
+        "id": "204102"
+    },
+    {
+        "stop": "Westbahnhof",
+        "plattform": "Kliniken",
+        "id": "204106"
+    },
+    {
+        "stop": "Westbahnhof",
+        "plattform": "Weststadt",
+        "id": "204103"
+    },
+    {
+        "stop": "Derendingen Bahnhof",
+        "plattform": "Derendingen / Unter dem Holz / Gartenstadt",
+        "id": "210101"
+    },
+    {
+        "stop": "Derendingen Bahnhof",
+        "plattform": "Hauptbahnhof",
+        "id": "210104"
+    },
+    {
+        "stop": "Kilchberg Bahnhof",
+        "plattform": "Bühl - Rottenburg",
+        "id": "250201"
+    },
+    {
+        "stop": "Kilchberg Bahnhof",
+        "plattform": "Hauptbahnhof",
+        "id": "250204"
+    },
+    {
+        "stop": "Bühl Rathaus",
+        "plattform": "Römerstraße / Rottenburg",
+        "id": "303401"
+    },
+    {
+        "stop": "Bühl Rathaus",
+        "plattform": "Hauptbahnhof",
+        "id": "303404"
+    },
+    {
+        "stop": "Bühl Römerstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "303504"
+    },
+    {
+        "stop": "Kilchberg Rathaus",
+        "plattform": "Bühl - Rottenburg",
+        "id": "304101"
+    },
+    {
+        "stop": "Kilchberg Rathaus",
+        "plattform": "Hauptbahnhof",
+        "id": "304104"
+    },
+    {
+        "stop": "Kilchberg Keltengrab",
+        "plattform": "Bühl - Rottenburg",
+        "id": "305001"
+    },
+    {
+        "stop": "Kilchberg Keltengrab",
+        "plattform": "Hauptbahnhof",
+        "id": "305004"
+    },
+    {
+        "stop": "Hirschau Volksbank",
+        "plattform": "Rottenburg",
+        "id": "324001"
+    },
+    {
+        "stop": "Hirschau Volksbank",
+        "plattform": "Hauptbahnhof",
+        "id": "324004"
+    },
+    {
+        "stop": "Hirschau Dischingerweg",
+        "plattform": "Rittweg West",
+        "id": "324104"
+    },
+    {
+        "stop": "Hirschau Dischingerweg",
+        "plattform": "Hauptbahnhof",
+        "id": "324101"
+    },
+    {
+        "stop": "Hirschau Rittweg Ost",
+        "plattform": "Hauptbahnhof",
+        "id": "324204"
+    },
+    {
+        "stop": "Hirschau Rittweg Ost",
+        "plattform": "Rittweg West",
+        "id": "324201"
+    },
+    {
+        "stop": "Hirschau Rittweg West",
+        "plattform": "Hauptbahnhof",
+        "id": "324301"
+    },
+    {
+        "stop": "Hirschau Kirchplatz",
+        "plattform": "Rottenburg",
+        "id": "324501"
+    },
+    {
+        "stop": "Hirschau Kirchplatz",
+        "plattform": "Hauptbahnhof",
+        "id": "324504"
+    },
+    {
+        "stop": "Kilchberg Ehingenstraße",
+        "plattform": "Hauptbahnhof",
+        "id": "325601"
+    },
+    {
+        "stop": "Kilchberg Schloß",
+        "plattform": "Bühl - Rottenburg",
+        "id": "330301"
+    },
+    {
+        "stop": "Kilchberg Schloß/L370",
+        "plattform": "Bühl - Rottenburg",
+        "id": "304201"
+    },
+    {
+        "stop": "Kilchberg Schloß",
+        "plattform": "Hauptbahnhof",
+        "id": "330304"
+    },
+    {
+        "stop": "Unterjesingen Süd",
+        "plattform": "Hauptbahnhof",
+        "id": "520104"
+    }
+]
